@@ -18,7 +18,7 @@ When the screen is rotated, the UI surface could also be fit for the screen:
 
 当旋转手机为横屏时界面也随之旋转：
 
-![animals-game](display/mainVer.png)
+![animals-game](display/mainHo.png)
 
 Next is the game activity. Enjoy it!
 
