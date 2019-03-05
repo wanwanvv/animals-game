@@ -48,4 +48,4 @@ Then you can comment the game and don't forget to give thumb to it if you like i
 
 你可以对此游戏进行点评。如果你喜欢这款游戏的话别忘了给它点赞哦。
 
-![animals-game](display/picture6.png)
+![animals-game](display/picture7.png)
